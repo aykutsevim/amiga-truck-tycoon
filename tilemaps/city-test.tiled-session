@@ -1,0 +1,57 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "city-template.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tüm Dosyalar (*)",
+    "fileStates": {
+        "#CityTilemap": {
+            "scaleInEditor": 1
+        },
+        "city-template.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 196.66666666666666,
+                "y": 187.66666666666663
+            }
+        },
+        "city-template.tmx#CityTilemap": {
+            "scaleInDock": 1.5
+        },
+        "city.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 484,
+                "y": 233.75
+            }
+        },
+        "city.tmx#city": {
+            "scaleInDock": 2
+        }
+    },
+    "last.imagePath": "E:/work-amiga/kenney_rpg-urban-pack/Tilemap",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "city-template.tmx"
+    ],
+    "project": "city-test.tiled-project",
+    "recentFiles": [
+        "city-template.tmx",
+        "city.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
